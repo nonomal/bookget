@@ -206,7 +206,7 @@ func printHelp() {
 	printVersion()
 	fmt.Println(`Usage: bookget [OPTION]... [URL]...`)
 	flag.PrintDefaults()
-	fmt.Println("Email bug reports, questions, discussions to zhudw<zhudwi@foxmail.com>")
+	fmt.Println("Email bug reports, questions, discussions to zhudw<zhudwi@outlook.com>")
 	fmt.Println("and/or open issues at https://github.com/deweizhu/bookget/issues")
 }
 
